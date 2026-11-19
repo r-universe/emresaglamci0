@@ -1,7 +1,4 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/emresaglamci0/emresaglamci0.r-universe.dev
+	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "plansize"]
-	path = plansize
-	url = https://github.com/emresaglamci0/r-paketi
